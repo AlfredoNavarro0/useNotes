@@ -9,6 +9,7 @@ function Navbar() {
         <Links tieneImagen={false} title="Barra Busqueda" link="#" />
         <Links tieneImagen={false} title="Tema" link="#" />
         <Links tieneImagen={false} title="Inicio Sesión" link="#" />
+        <h1>HOLA MUNDO</h1>
       </ul>
     </nav>
   );
